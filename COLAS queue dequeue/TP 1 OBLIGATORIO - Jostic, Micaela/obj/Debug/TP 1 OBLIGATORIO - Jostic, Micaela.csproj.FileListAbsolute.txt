@@ -1,0 +1,11 @@
+C:\Users\micay\source\repos\TP 1 OBLIGATORIO - Jostic, Micaela\TP 1 OBLIGATORIO - Jostic, Micaela\bin\Debug\TP 1 OBLIGATORIO - Jostic, Micaela.exe.config
+C:\Users\micay\source\repos\TP 1 OBLIGATORIO - Jostic, Micaela\TP 1 OBLIGATORIO - Jostic, Micaela\bin\Debug\TP 1 OBLIGATORIO - Jostic, Micaela.exe
+C:\Users\micay\source\repos\TP 1 OBLIGATORIO - Jostic, Micaela\TP 1 OBLIGATORIO - Jostic, Micaela\bin\Debug\TP 1 OBLIGATORIO - Jostic, Micaela.pdb
+C:\Users\micay\source\repos\TP 1 OBLIGATORIO - Jostic, Micaela\TP 1 OBLIGATORIO - Jostic, Micaela\obj\Debug\TP 1 OBLIGATORIO - Jostic, Micaela.csproj.AssemblyReference.cache
+C:\Users\micay\source\repos\TP 1 OBLIGATORIO - Jostic, Micaela\TP 1 OBLIGATORIO - Jostic, Micaela\obj\Debug\TP_1_OBLIGATORIO___Jostic__Micaela.Form1.resources
+C:\Users\micay\source\repos\TP 1 OBLIGATORIO - Jostic, Micaela\TP 1 OBLIGATORIO - Jostic, Micaela\obj\Debug\TP_1_OBLIGATORIO___Jostic__Micaela.FormularioAlumno.resources
+C:\Users\micay\source\repos\TP 1 OBLIGATORIO - Jostic, Micaela\TP 1 OBLIGATORIO - Jostic, Micaela\obj\Debug\TP_1_OBLIGATORIO___Jostic__Micaela.Properties.Resources.resources
+C:\Users\micay\source\repos\TP 1 OBLIGATORIO - Jostic, Micaela\TP 1 OBLIGATORIO - Jostic, Micaela\obj\Debug\TP 1 OBLIGATORIO - Jostic, Micaela.csproj.GenerateResource.cache
+C:\Users\micay\source\repos\TP 1 OBLIGATORIO - Jostic, Micaela\TP 1 OBLIGATORIO - Jostic, Micaela\obj\Debug\TP 1 OBLIGATORIO - Jostic, Micaela.csproj.CoreCompileInputs.cache
+C:\Users\micay\source\repos\TP 1 OBLIGATORIO - Jostic, Micaela\TP 1 OBLIGATORIO - Jostic, Micaela\obj\Debug\TP 1 OBLIGATORIO - Jostic, Micaela.exe
+C:\Users\micay\source\repos\TP 1 OBLIGATORIO - Jostic, Micaela\TP 1 OBLIGATORIO - Jostic, Micaela\obj\Debug\TP 1 OBLIGATORIO - Jostic, Micaela.pdb
