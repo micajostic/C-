@@ -1,0 +1,7 @@
+C:\Users\micay\source\repos\LibreriaPilas\LibreriaPilas\bin\Debug\LibreriaPilas.exe.config
+C:\Users\micay\source\repos\LibreriaPilas\LibreriaPilas\bin\Debug\LibreriaPilas.exe
+C:\Users\micay\source\repos\LibreriaPilas\LibreriaPilas\bin\Debug\LibreriaPilas.pdb
+C:\Users\micay\source\repos\LibreriaPilas\LibreriaPilas\obj\Debug\LibreriaPilas.csproj.AssemblyReference.cache
+C:\Users\micay\source\repos\LibreriaPilas\LibreriaPilas\obj\Debug\LibreriaPilas.csproj.CoreCompileInputs.cache
+C:\Users\micay\source\repos\LibreriaPilas\LibreriaPilas\obj\Debug\LibreriaPilas.exe
+C:\Users\micay\source\repos\LibreriaPilas\LibreriaPilas\obj\Debug\LibreriaPilas.pdb
