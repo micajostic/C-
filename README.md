@@ -4,7 +4,7 @@ Este repositorio contiene dos trabajos prácticos desarrollados en C# para la ma
 
 ---
 
-## 📌 Simulación de Pila (Consola) - LibreriaPilas <--
+## 📌 Simulación de pila (Consola) - LibreriaPilas <--
 
 *Tipo de estructura:* Pila (LIFO)
 
@@ -18,7 +18,7 @@ Cada elemento es un producto con: Código, Link, Descripción y Precio.
 
 ---
 
-## 📌 2. Simulación de Cola (Windows Forms) - COLAS enqueue dequeue <--
+## 📌 2. Simulación de cola (Windows Forms) - COLAS enqueue dequeue <--
 
 *Tipo de estructura:* Cola (FIFO)
 
